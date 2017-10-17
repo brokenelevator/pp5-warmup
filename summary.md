@@ -25,3 +25,8 @@ Show difference between revisions
 ```sh
 git diff
 ```
+
+Add files to be tracked
+```sh
+git add [filenames]
+```
