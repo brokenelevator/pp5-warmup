@@ -13,3 +13,10 @@ Initialize new repository structure in current working directory
 ```sh
 git init
 ```
+
+## Local changes
+
+Show current repository status
+```sh
+git status
+```
