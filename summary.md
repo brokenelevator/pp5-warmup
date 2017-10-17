@@ -11,5 +11,5 @@ command itself
 
 Initialize new repository structure in current working directory
 ```sh
-
+git init
 ```
