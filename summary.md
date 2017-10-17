@@ -20,3 +20,8 @@ Show current repository status
 ```sh
 git status
 ```
+
+Show difference between revisions
+```sh
+git diff
+```
