@@ -30,3 +30,8 @@ Add files to be tracked
 ```sh
 git add [filenames]
 ```
+
+Add all 'add'ed changes to new revision and open editor to supply a comment
+```sh
+commit
+```
