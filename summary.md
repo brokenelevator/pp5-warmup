@@ -47,3 +47,8 @@ commit -a -m "mycomment"
 ```
 
 ##History Management
+
+List all commits in reverse chronological order
+```sh
+git log
+```
