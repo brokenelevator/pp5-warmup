@@ -45,3 +45,5 @@ Add tracked and changed files to new revision and use "mycomment" as a comment
 ```sh
 commit -a -m "mycomment"
 ```
+
+##History Management
