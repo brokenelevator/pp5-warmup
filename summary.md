@@ -52,3 +52,8 @@ List all commits in reverse chronological order
 ```sh
 git log
 ```
+
+Show who and in which revision last edited each line of a file
+```sh
+git blame
+```
