@@ -35,3 +35,8 @@ Add all 'add'ed changes to new revision and open editor to supply a comment
 ```sh
 commit
 ```
+
+Add tracked and changed files to new revision and open editor to supply a comment
+```sh
+commit -a
+```
