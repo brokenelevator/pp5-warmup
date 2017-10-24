@@ -40,3 +40,8 @@ Add tracked and changed files to new revision and open editor to supply a commen
 ```sh
 commit -a
 ```
+
+Add tracked and changed files to new revision and use "mycomment" as a comment
+```sh
+commit -a -m "mycomment"
+```
