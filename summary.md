@@ -1,4 +1,4 @@
-#Git overview
+# Git overview
 Following summary may help to understand daily work with git.
 
 ## Section name
@@ -46,7 +46,7 @@ Add tracked and changed files to new revision and use "mycomment" as a comment
 commit -a -m "mycomment"
 ```
 
-##History Management
+## History Management
 
 List all commits in reverse chronological order
 ```sh
